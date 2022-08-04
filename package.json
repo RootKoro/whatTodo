@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/RootKoro/whatTodo/issues"
   },
-  "homepage": "https://github.com/RootKoro/whatTodo#readme"
+  "homepage": "https://github.com/RootKoro/whatTodo#readme",
+  "devDependencies": {
+    "expo": "^46.0.2",
+    "nodemon": "^2.0.19",
+    "react-native": "^0.69.3"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "ts-node": "^10.9.1"
+  }
 }
