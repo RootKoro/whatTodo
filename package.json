@@ -1,0 +1,19 @@
+{
+  "name": "mytodolist",
+  "version": "1.0.0",
+  "description": "a Todo List made in full js by shin_koro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RootKoro/whatTodo.git"
+  },
+  "author": "RootKoro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RootKoro/whatTodo/issues"
+  },
+  "homepage": "https://github.com/RootKoro/whatTodo#readme"
+}
